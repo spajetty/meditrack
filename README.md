@@ -31,18 +31,10 @@ Key Features:
 ## 🛠 Tech Stack
 
 ### 🖥 Frontend
-- **React** (with Vite)
-- **Tailwind CSS** or Bootstrap
-- **Axios** for HTTP requests
-- **Vercel Hosting** to deploy static page
+<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> &nbsp; <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> &nbsp; <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> &nbsp; <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" /> &nbsp; <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> </p>
 
 ### 🔧 Backend
-- **ASP.NET Core** (Web API)
-- **Entity Framework Core**
-- **SQL Server / Azure SQL**
-- **MSSQL Server**
-- **CORS Configuration**
-- **Azure App Service Hosting**
+<p align="center"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" /> &nbsp; <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" /> &nbsp; <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="EF Core" /> &nbsp; <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> &nbsp; <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure SQL" /> &nbsp; <img src="https://img.shields.io/badge/CORS-FF6F00?style=for-the-badge" alt="CORS" /> &nbsp; <img src="https://img.shields.io/badge/Azure_App_Service-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure App Service" /> </p>
 
 ---
 
