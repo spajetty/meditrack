@@ -9,10 +9,10 @@ This repository serves as the main hub for the entire MediTrack system. It links
 ## 🔗 Repository Links
 
 - 🔸 **Frontend Repository** (React + Vite)  
-  👉 [https://github.com/your-username/frontend-meditrack](https://github.com/your-username/frontend-meditrack)
+  👉 [https://github.com/spajetty/frontend-meditrack](https://github.com/spajetty/frontend-meditrack)
   
 - 🔹 **Backend Repository** (ASP.NET Core + Entity Framework)  
-  👉 [https://github.com/your-username/backend-meditrack](https://github.com/your-username/backend-meditrack)
+  👉 [https://github.com/spajetty/backend-meditrack](https://github.com/spajetty/backend-meditrack)
 
 ---
 
