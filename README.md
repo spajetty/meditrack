@@ -10,7 +10,7 @@ This repository serves as the main hub for the entire MediTrack system. It links
 
 - 🔸 **Frontend Repository** (React + Vite)  
   👉 [https://github.com/your-username/frontend-meditrack](https://github.com/your-username/frontend-meditrack)
-
+  
 - 🔹 **Backend Repository** (ASP.NET Core + Entity Framework)  
   👉 [https://github.com/your-username/backend-meditrack](https://github.com/your-username/backend-meditrack)
 
@@ -24,7 +24,6 @@ Key Features:
 - Role-based access for doctors and patients
 - Prescription and medication tracking
 - Dashboard view with prescription history
-- Secure authentication using JWT
 - Hosted and deployed for web access
 
 ---
@@ -35,14 +34,15 @@ Key Features:
 - **React** (with Vite)
 - **Tailwind CSS** or Bootstrap
 - **Axios** for HTTP requests
-- **Firebase Hosting** (optional)
+- **Vercel Hosting** to deploy static page
 
 ### 🔧 Backend
 - **ASP.NET Core** (Web API)
 - **Entity Framework Core**
 - **SQL Server / Azure SQL**
-- **JWT Authentication**
+- **MSSQL Server**
 - **CORS Configuration**
+- **Azure App Service Hosting**
 
 ---
 
@@ -51,14 +51,16 @@ Key Features:
 ### 👨‍⚕️ Doctor
 - Login via secure credentials
 - View assigned patients
-- Add, update, and delete prescriptions
-- Monitor medication schedules
+- Monitor prescriptions
+- Check Adherence Statistics
+- See History of med intake
 
 ### 👩‍⚕️ Patient
 - Login via secure credentials
 - View list of prescriptions
+- Add, Edit and Delete Prescriptions
 - Track daily medication intake
-- Receive dose instructions
+- See History of med intake
 
 ---
 
